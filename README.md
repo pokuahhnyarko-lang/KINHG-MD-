@@ -13,7 +13,7 @@ BOT FEATURE ⤵️***
   <a href='https://bandaheali-pair.zone.id' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
-## _🕹️ DEPLOYMENT_
+## _🕹️ DEPLOYMENT CODE_
 
 <div align="center">
   <table>
@@ -106,3 +106,7 @@ jobs:
 <!-- Animated Sparkle Divider -->
 <img src="https://i.giphy.com/media/XcQ0XH32ya0Gs3QNwk/giphy.webp" width="450" alt="sparkle-divider">
 
+CREATED BY :[@KING_BLESS XMD]
+DEVELOPER PHONE CONTACT :[+233535502036]
+⚠️ PLEASE NOTE THIS⚠️
+DON'T WRONG USE IT PĹËÂŠÉ
