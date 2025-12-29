@@ -1,0 +1,21 @@
+{
+  "name": "KINHG-MD",
+  "description": "Javascript WhatsApp bot powered by Bandaheali",
+  "logo": "https://cdn-bandaheali.zone.id/kinhg/alive.jpg",
+  "keywords": ["KINHG-MD", "WhatsApp Bot", "Bandaheali"],
+  "success_url": "/",
+  "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put your Baileys session-id here (Base64).",
+      "required": true,
+      "value": ""
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+  ],
+  "stack": "heroku-24"
+    }
